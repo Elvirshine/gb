@@ -84,4 +84,3 @@ for el in cycle(["Abc", 123, "456"]):
 
     for el in fact(y):
         print(el)
-

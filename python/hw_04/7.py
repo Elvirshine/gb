@@ -12,4 +12,3 @@ def fact(n):
 
 for el in fact(y):
     print(el)
-

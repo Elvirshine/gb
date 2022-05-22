@@ -9,3 +9,4 @@ print("Выработка в часах: ", hours)
 print("Ставка в час: ", rate)
 print("Премия: ", bonus)
 print("Итого: ", (float(hours) * float(rate)) + float(bonus))
+

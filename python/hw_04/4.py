@@ -9,3 +9,4 @@ result = [key for key in s if s[key] < 2]
 
 print(f"Исходный список: {start}")
 print(f"Результат: {result}")
+
